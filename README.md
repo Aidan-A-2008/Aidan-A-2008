@@ -1,3 +1,4 @@
+---
 - 👋 Hi, I’m @Aidan A
 - 🏫 Im currenlty enroled in Oswego East: freshman. 
 - 🤝🏻 I’m open to work with people, this includes: working on projects at no cost, giving support, completing projects for others.  
