@@ -9,10 +9,9 @@
 ---
 More about me:
 ---
-+| Streamer: 
-https://linktr.ee/aidan_a
-+| Server Manager
-+| Developer
-+| Music Enthusiast
-+| DJ
+- +| Streamer: https://linktr.ee/aidan_a
+- +| Server Manager
+- +| Developer
+- +| Music Enthusiast
+- +| DJ
 ---
