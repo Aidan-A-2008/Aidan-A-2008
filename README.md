@@ -8,7 +8,6 @@
 - Discord:   https://discord.gg/PhWcnGWpN4
 - Discord:   Aidan A#7573
 ---
-More about me:
 ---
 - +| Streamer: https://linktr.ee/aidan_a
 - +| Server Manager
