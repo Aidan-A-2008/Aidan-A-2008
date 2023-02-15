@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 - Email:     aidan.arredondo@playpiglin.net
 - Email:     legotrain2008@gmail.com
-- Discord:   [https://discord.gg/PhWcnGWpN4](https://discord.gg/JKP77P2GHF)
+- Discord:   https://discord.gg/PhWcnGWpN4
 - Discord:   Aidan A#7573
 ---
 More about me:
