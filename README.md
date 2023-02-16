@@ -3,7 +3,6 @@
 - 🏫 Im currenlty enroled in Oswego East: freshman. 
 - 🤝🏻 I’m open to work with people, this includes: working on projects at no cost, giving support, completing projects for others.  
 - 📫 How to reach me ...
-- Email:     aidan.arredondo@playpiglin.net
 - Email:     legotrain2008@gmail.com
 - Discord:   https://discord.gg/PhWcnGWpN4
 - Discord:   Aidan A#7573
