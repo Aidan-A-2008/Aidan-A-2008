@@ -1,10 +1,8 @@
 ---
 - 👋 Hi, I’m @Aidan A. I am a Content Creator, Server Manager, Developer, Music Enthusiast and a DJ.
-- 🏫 Im currenlty enroled in Oswego East: freshman. 
+- 🏫 Im currenlty enroled in Oswego East: sophomore. 
 - 🤝🏻 I’m open to work with people, this includes: working on projects at no cost, giving support, completing projects for others.  
 - 📫 How to reach me ...
-- Email:     contact@aidan-a.me
-- Discord:   https://discord.gg/PhWcnGWpN4
-- Discord:   Aidan A#7573
-- LinkTree: https://linktr.ee/aidan_a
+- Email:     contact@aidanarredondo.com
+- Discord:   aidan_a2008
 ---
